@@ -1,8 +1,8 @@
 import openai
 
-openai.api_key = "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"
+openai.api_key = "API KEY HERE"
 
-def gpt(input):
+def gpt(input = ''):
     response = openai.ChatCompletion.create(
         model="gpt-3.5-turbo",
         messages=[   
@@ -30,6 +30,7 @@ def gpt(input):
     return output
 
 """
+RETURN ->
 response model
 {
   "id": "chatcmpl-82k0YazmDGvXMC0LvMX9RoKiHqL01",
