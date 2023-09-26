@@ -1,5 +1,5 @@
 # Mark 2
-A virtual assistant inspired by J.A.R.V.I.S from Iron Man.
+Successor of Mark - A virtual assistant inspired by J.A.R.V.I.S from Iron Man.
 
 Mark is awakened when his name is called. When awakened, the assistant will listen to any mic input.
 
